@@ -1,0 +1,53 @@
+.product h4 {
+    font-family:initial;
+    margin-top: 2px;
+    margin-left: -55%;
+}
+
+.product-item {
+    border: 1px solid lightgrey;
+    padding: 50px 50px;  
+    margin-top: 1%;
+    /* height: 240px; */
+    width: 70%;
+    border-radius: 20px;
+    margin-left: 15%;
+    font-family:initial;
+    margin-bottom: 50px;
+}
+
+.Img img {
+    width: 200px;
+    height: 230px;
+    border: 1px solid rgb(255, 255, 255);
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.product-item h5 {
+    margin-top: -25%;
+    font-size: 30px;
+}
+
+.product-item h4 {
+    margin-left: 70%;
+    font-size: 20px;
+}
+
+.product-item p {
+    margin-top: 2%;
+    margin-left: 70%;
+}
+
+.product-item h6 {
+    margin-top: 2%;
+    margin-left: 65%;
+}
+
+.product-item h3 {
+    margin-top: 3%;
+    margin-left: 70%;
+    font-size: 22px;
+    color: red;
+    margin-bottom: -2%;
+}

@@ -1,0 +1,102 @@
+.order h4 {
+    font-family:initial;
+    margin-top: 2px;
+    margin-left: -55%;
+}
+
+.order-item {
+    border: 1px solid lightgrey;
+    padding: 50px 50px;  
+    margin-top: 1%;
+    /* height: 240px; */
+    width: 70%;
+    border-radius: 20px;
+    margin-left: 15%;
+}
+
+.orderItem {
+    border: 1px solid lightgrey;
+    padding: 50px 50px;  
+    margin-top: 1%;
+    /* height: 150px; */
+    width: 70%;
+    border-radius: 20px;
+    margin-left: 15%;
+    font-family:initial;
+}
+
+.orderItem i{
+    margin-left: 100%;
+    margin-top: 1.5%;
+    font-size: 20px;
+    color: rgb(155, 150, 150);
+}
+
+.orderItem i:hover{
+    color: rgb(20, 20, 20);
+}
+
+.Img img {
+    width: 180px;
+    height: 400px;
+    margin-top: -20%;
+}
+
+.order-item h5 {
+    font-size: 25px;
+    font-family:initial;
+    margin-top: -25%;
+    margin-bottom: 10%;
+}
+
+.order-item h6 {
+    font-size: 20px;
+    font-family:initial;
+    margin-left: 40px;
+}
+
+.order-item p {
+    font-size: 18px;
+    font-family:initial;
+    color: red;
+    margin-right: 20px;
+    margin-top: -5%;
+    margin-bottom: 7%;
+}
+
+.orderItem h2 {
+    font-size: 15px;
+    margin-top: -7%;
+}
+
+.orderItem p {
+    font-size: 15px;
+    margin-top: 2%;
+    margin-left: -91%;
+}
+
+.orderItem h4 {
+    font-size: 15px;
+    margin-top: -5%;
+    margin-left: -70%;
+}
+
+.fullname {
+    margin-top: -50px;
+}
+
+.text-center button {
+    background-color: #a7254c;
+    margin-top: 3%;
+    margin-bottom: 2%;
+}
+
+.text-center button:hover {
+    background-color: #ec8da9;
+}
+
+.orderItem h3 {
+   font-size: 25px;
+   margin-top: -2%;
+   color: #757273;
+}

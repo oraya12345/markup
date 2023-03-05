@@ -1,0 +1,19 @@
+.address h2 {
+   margin-top: 4%;
+   font-family:initial;
+   font-size: 30px;
+   text-align: center;
+}
+
+.address input {
+    margin-left: 35%;
+}
+
+.address button {
+    margin-left: 50%;
+    margin-bottom: 50px;
+}
+
+.address button:hover {
+    background-color: #a7254c;
+}

@@ -1,0 +1,32 @@
+.fluid h3 {
+    font-family:initial;
+}
+
+.fluid label {
+    font-family:initial;
+}
+
+.form-control {
+    padding: 10px;
+    border-radius: 15px;
+    width: 400px;
+    font-family:initial;
+}
+
+.text-left img {
+    width: 210px;
+    height: 240px;
+    border-radius: 50%;
+    margin-left: -20%;
+    margin-bottom: -20%;
+    margin-top: 2%;
+}
+
+
+.col-3 {
+    margin-left: 9%;
+}
+
+.profile {
+    margin-left: 30%;
+}

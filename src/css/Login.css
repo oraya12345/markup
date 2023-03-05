@@ -1,0 +1,70 @@
+.login {
+    /* background: linear-gradient(
+        rgba(255,255,255,0.5),
+        rgba(255,255,255,0.5)
+        ),
+          url("https://wallpaperboat.com/wp-content/uploads/2019/12/dior-01.jpg");
+    background-size: cover; */
+    /* background-color: rgb(245, 212, 212); */
+
+}
+
+.fluid h3 {
+    font-family:initial;
+}
+
+.fluid label {
+    font-family:initial;
+}
+
+.form-control {
+    padding: 10px;
+    border-radius: 15px;
+    width: 400px;
+}
+
+.form-group {
+    margin-left: 100px;
+}
+
+.layout {
+    padding: 30px;
+}
+
+.border-line{
+    border-left: solid 3px gray;
+    height: 830px;
+    margin-top: 15px;
+}
+
+.box-center {
+    padding-left: 50%;
+}
+
+.btn-radius{
+    border-radius: 30px;
+}
+
+.box-btn {
+    margin: 20px;
+}
+
+.box-input {
+    margin-top: 20px;
+}
+
+.btn {
+    margin-top: 20px;
+    cursor: pointer;
+    background-color: lightcoral;
+    border: none;
+    color: white;
+    border-radius: 20px;
+    padding: 10px;
+    width: 90px;
+    align-items: center;
+}
+
+.row {
+    font-family:initial;
+}

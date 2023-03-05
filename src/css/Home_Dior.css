@@ -1,0 +1,38 @@
+.container {
+    padding-top: 30px;
+ }
+ 
+ .carousel-inner {
+     padding: 10px;
+ }
+ 
+ .carousel-item  img {
+     width: 90%;
+     height: 100%;
+     margin-top: -15%;
+     margin-left: 5%;
+ }
+ 
+ .row img{
+     width: 300px;
+     height: 350px;
+     margin-right: 12px;
+ }
+ 
+ .container-fluid h4 {
+     margin-top: 50px;
+     padding-top: 50px;
+     text-align: center;
+ }
+ 
+ .home img {
+     margin-left: 18%;
+     width: 300px;
+     height: 450px;
+ }
+ 
+ .home h4 {
+    margin-bottom: -6%;
+ }
+ 
+ 

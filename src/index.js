@@ -3,10 +3,28 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
+import { CartProvider } from './store/CartProvider'
+import {
+  BrowserRouter as Router,
+  Switch,
+  Route,
+  Link
+} from "react-router-dom";
+import { UserProvider } from './store/UserProvider';
+import { LoginProvider } from './store/LoginProvider';
 
 ReactDOM.render(
   <React.StrictMode>
-    <App />
+    <Router>
+      <CartProvider>
+        <LoginProvider>
+          <UserProvider>
+            <App />
+          </UserProvider>
+        </LoginProvider>
+      </CartProvider>
+    </Router>
+
   </React.StrictMode>,
   document.getElementById('root')
 );

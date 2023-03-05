@@ -1,0 +1,121 @@
+.container {
+    padding-top: 20px;
+}
+
+.perfume {
+    padding: 1px;
+}
+
+.fluid img {
+    padding-top: 30px;
+    height: 500px;
+    width: 100%;
+    transition: all 0.5s ease-in-out; 
+}
+
+.fluid img:hover {
+    transform: scale(1.05);
+}
+
+.perfume h3 {
+    padding-top: 5%;
+    font-size: 25px;
+    font-family:initial;
+    text-align: center;
+}
+
+.perfume h4 {
+    padding-top: 60px;
+    margin-top: 50px;
+    font-size: 20px;
+    font-family:initial;
+    text-align: center;
+}
+
+.perfume h5 {
+    padding-top: 60px;
+    margin-top: 50px;
+    font-size: 20px;
+    font-family:initial;
+    text-align: center;
+}
+
+.perfume h6 {
+    padding-top: 3px;
+    margin-top: 3px;
+    font-size: 18px;
+    font-family:initial;
+    text-align: center;
+}
+
+.perfume p {
+    padding-top: 3px;
+    margin-top: 3px;
+    font-size: 1px;
+    font-family:initial;
+    text-align: center;
+    color: red;
+}
+
+.border-inline {
+    border-bottom: solid 2px rgb(211, 207, 207); 
+    padding: 20px;
+    
+}
+
+.fluid {
+  width: 90%;
+  margin: 50px auto;
+  text-align: center;
+  transition: all 0.2s ease-in-out;
+  overflow: hidden;
+  position: relative;
+}
+
+/* .product img {
+    border: 1px solid rgb(211, 207, 207);
+    width: 300px;
+    height: 350px;
+    transition: all 0.4s ease-in-out;
+ }
+
+  .perfume:hover img {
+     transform: scale(1.05);
+ } 
+
+ @media screen and (min-width:660px) {
+     .product img {
+         border: 1px solid lightgray;
+         flex: 0 0 calc(33.3% - 20px);
+     }
+ } */
+
+ .cover img {
+   margin-top: 2%;
+ }
+
+ .col-sm h5 {
+     margin-top: 10px;
+     padding-top: 10px;
+ }
+
+ .home-btn-a {
+    background: #a7254c;
+    display: inline-block;
+    padding: .5rem 2rem;
+    text-decoration: none;
+    color: rgb(229, 233, 240);
+    border: 1px solid transparent;
+    transition: 0.3s;
+    border-radius: 20px;
+    text-transform: uppercase;
+
+}
+
+.home-btn-a:hover {
+    border: 2px solid rgb(110, 6, 128);
+    background: transparent;
+    color: rgb(19, 18, 18);
+}
+
+

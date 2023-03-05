@@ -1,0 +1,209 @@
+ 
+ .top {
+  position: sticky;
+  font-family:initial;
+  top: 0;
+  z-index: 999;
+ }
+
+ .brand {
+   font-size: 50px;
+   margin-left: 50px;
+   color: #000;
+   font-family:initial;
+ }
+
+ .brand:hover{
+  color: rgb(117, 116, 116);
+}
+
+
+ .navbar {
+   background-color: #ebadc0;
+   height: 60px;
+ }
+
+  .fas {
+   color: #000;
+   font-size: 20px;
+   margin-top: 5px;
+   margin-right: 4px;
+ }
+
+ .fas:hover {
+  color: rgb(230, 34, 93);
+  
+}
+
+.topImg {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    object-fit: cover;  
+    margin-left: -50%;
+}
+
+.link{
+  color: black;
+}
+
+.icon-cart {
+  margin-right:3% ;
+  font-size: 20px;
+  color: #000;
+}
+
+.icon-cart span {
+  color: white;
+  cursor: pointer;
+  position: absolute;
+  top: 10px;
+  right: 15px;
+  background: red;
+  width: 20px;
+  border-radius: 50%;
+}
+
+.link {
+  color: aliceblue;
+  margin-right: 60px;
+  margin-left: 60px;
+}
+
+.link:hover {
+  color: rgb(230, 230, 29);
+  
+}
+
+.user {
+  color: black;
+  margin-left: -28%;
+  margin-top: 15px;
+  font-family:initial;
+}
+.user:hover{
+  color: rgb(117, 115, 115);
+}
+
+
+
+
+
+
+/* 
+.top {
+  position: sticky;
+  top: 0;
+  z-index: 999;
+}
+.navbar-brand {
+    margin-left: 20px;
+    font-family:initial;
+}
+
+.nav-link {
+    margin-right: 50px;
+}
+
+
+.topLeft {
+  background-color: #ebadc0;
+}
+
+.topCenter {
+    flex: 6;
+  }
+
+  .topList {
+    display: flex;
+    justify-content: center;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+
+  .topListItem {
+    margin-right: 20px;
+    font-size: 20px;
+    font-weight: 300;
+    cursor: pointer
+  }
+  
+  .link {
+    color: rgb(241, 239, 239);
+    font-family:initial;
+    margin-left: -50px;
+  }
+
+  .logo {
+    margin-left: 48%;
+    color: #000;
+    font-family:initial;
+    
+  }
+
+ 
+  .topLeft-img p {
+    font-size: 15px;
+    margin-left: -73%;
+   margin-top: 2%;
+  }
+
+  .topLogo {
+    margin-right: 70%;
+    font-size: 30px;
+    color: black;
+  }
+
+  .icon {
+    margin-right:3% ;
+    font-size: 20px;
+    color: #000;
+  }
+
+  .icon:hover {
+    color: rgb(235, 22, 22);
+  }
+
+  .navbar  {
+    background-color: #a7254c;
+  }
+
+  .navbar-nav {
+  margin-left: 30%;
+   
+  }
+
+  .dropdown {
+    margin-left: 70px;
+  }
+
+  .text-nav {
+    color: white;
+  }
+ 
+  .link:hover {
+    color: rgb(233, 164, 164);
+  }
+
+  .icon-cart {
+    margin-right:3% ;
+    font-size: 20px;
+    color: #000;
+  }
+ 
+  .icon-cart span {
+    color: white;
+    cursor: pointer;
+    position: absolute;
+    top: 6px;
+    left: 96.5%;
+    background: red;
+    width: 20px;
+    border-radius: 50%;
+  }
+
+  .icon-cart:hover {
+    color: rgb(235, 22, 22);
+  } */
+  
